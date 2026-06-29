@@ -16,9 +16,9 @@
 ---
 
 > [!NOTE]
-> **Latest Update**: 2026-06-22 (TE-2026-06-20)
+> **Latest Update**: 2026-06-28 (TE-2026-06-27)
 >
-> 📌 **Update Note**: Added the 2026-06-20 issue.
+> 📌 **Update Note**: Added the 2026-06-27 issue.
 
 ---
 
